@@ -1,0 +1,21 @@
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\bin\Debug\tubewell.exe.config
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\bin\Debug\tubewell.exe
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\bin\Debug\tubewell.pdb
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\obj\Debug\tubewell.csproj.AssemblyReference.cache
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\obj\Debug\tubewell.Properties.Resources.resources
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\obj\Debug\tubewell.csproj.GenerateResource.cache
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\obj\Debug\tubewell.csproj.CoreCompileInputs.cache
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\obj\Debug\tubewell.exe
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\obj\Debug\tubewell.pdb
+C:\Users\M.ilyas Chishti\Source\Repos\tubewell\tubewell\obj\Debug\tubewell.Form1.resources
+D:\my tube well project\tubewell\tubewell\bin\Debug\tubewell.exe.config
+D:\my tube well project\tubewell\tubewell\bin\Debug\tubewell.exe
+D:\my tube well project\tubewell\tubewell\bin\Debug\tubewell.pdb
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.csproj.AssemblyReference.cache
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.Form1.resources
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.Properties.Resources.resources
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.csproj.GenerateResource.cache
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.csproj.CoreCompileInputs.cache
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.exe
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.pdb
+D:\my tube well project\tubewell\tubewell\obj\Debug\tubewell.Please_Login.resources

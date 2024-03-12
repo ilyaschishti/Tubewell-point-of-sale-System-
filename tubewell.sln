@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tubewell", "tubewell\tubewell.csproj", "{43F25DC6-06F4-4D56-9F88-2C080F5D035A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4FDBF399-B369-4829-802B-E77B73D9A685}"
+	ProjectSection(SolutionItems) = preProject
+		tubewell\new.jpg = tubewell\new.jpg
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "tubewel", "tubewel\tubewel.vdproj", "{25018AB8-2D23-4B0E-89DA-66F691FAE737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F25DC6-06F4-4D56-9F88-2C080F5D035A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F25DC6-06F4-4D56-9F88-2C080F5D035A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F25DC6-06F4-4D56-9F88-2C080F5D035A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F25DC6-06F4-4D56-9F88-2C080F5D035A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25018AB8-2D23-4B0E-89DA-66F691FAE737}.Debug|Any CPU.ActiveCfg = Debug
+		{25018AB8-2D23-4B0E-89DA-66F691FAE737}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C759788-5E6B-42BF-B072-59CE3618BA6D}
+	EndGlobalSection
+EndGlobal
